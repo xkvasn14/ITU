@@ -1,0 +1,23 @@
+.schedule-wrapper {
+    height: 80vh;
+    padding: 1rem;
+}
+
+.schedule-wrapper .rbc-month-row {
+    overflow: unset;
+}
+
+.schedule-wrapper .rbc-row-bg {
+    overflow: unset;
+}
+
+.schedule-wrapper .rbc-row-content {
+    z-index: unset;
+    user-select: all;
+    -webkit-user-select: all;
+}
+
+.schedule-wrapper .rbc-event:hover .popup {
+    opacity: 1;
+    transform: scale(1);
+}

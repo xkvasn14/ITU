@@ -1,0 +1,25 @@
+.event {
+    position: relative;
+    borderRadius: 0;
+    opacity: 0.5;
+    color: white;
+    border: 0;
+    background-color: #007bff;
+    border-color: #007bff;
+    display: block;
+}
+
+.rbc-event, .rbc-day-slot .rbc-background-event {
+    border: none;
+    box-sizing: border-box;
+    box-shadow: none;
+    margin: 0;
+    padding: 2px 5px;
+    background-color: #007bff;
+    border-radius: 5px;
+    color: black;
+    cursor: pointer;
+    width: 100%;
+    height: 100%;
+    text-align: left;
+}

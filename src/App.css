@@ -1,0 +1,20 @@
+.e-schedule .e-appointment-details{
+  padding: 0 !important;
+}
+
+.template-wrap {
+  background: green;
+  padding-left: 20px;
+  padding-right: 5px;
+  padding-top: 7px;
+  padding-bottom: 10px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+app {
+  background-color: white;
+  transition: 1s ease;
+  height: 100%;
+  width: 100%;
+}

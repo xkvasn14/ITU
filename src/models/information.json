@@ -1,0 +1,22 @@
+{
+  "infos": [
+    {
+      "id": "1",
+      "date": "2022-01-01",
+      "type": "note-warning",
+      "text": "Výstraha pro Karlovarský Kraj - Velké sněžení a nárazový vítr"
+    },
+    {
+      "id": "2",
+      "date": "2022-01-05",
+      "type": "note-warning",
+      "text": "Výstraha pro Olomoucký Kraj - Náledí a nárazový vítr"
+    },
+    {
+      "id": "3",
+      "date": "2022-02-28",
+      "type": "note-info",
+      "text": "Let č 137 zrušen"
+    }
+  ]
+}
